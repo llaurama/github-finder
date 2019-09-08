@@ -1,30 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Disclaimer
+This project was created by following the course of ReactJS by Brad Traversy on Udemy.
 
-## Code & Resources
-The final code for this project can be found in this Github repo:
-
-https://github.com/bradtraversy/github-finder
-
-
-
-Docs for the Github API:
-
-https://developer.github.com/v3/
-
-
-
-To Register Your Github App & Get Keys:
-
-https://github.com/settings/applications/new
-
-
-
-API Endpoints We Will Be Working With:
-
-https://api.github.com/users
-
-https://api.github.com/search/users?q=brad
-
-https://api.github.com/users/bradtraversy
-
-https://api.github.com/users/bradtraversy/repos
+## Course link
+https://www.udemy.com/modern-react-front-to-back/
